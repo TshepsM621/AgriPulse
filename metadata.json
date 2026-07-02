@@ -1,0 +1,6 @@
+{
+  "name": "AgriPulse",
+  "description": "A data-first predictive agricultural dashboard tracking field telemetry, satellite plot status, and localized actionable prescriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
